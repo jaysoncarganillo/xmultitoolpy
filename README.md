@@ -18,7 +18,7 @@ This Python script allows you to manipulate Twitter and x.com URLs. It provides 
    - Install the required packages using `pip install pyperclip tkinter`.
 
 2. **Run the Script**:
-   - Execute the script using `python script_name.py`.
+   - Execute the script using `python xmultitoolpy.py`.
    - The script will run in the background, monitoring your clipboard.
 
 3. **Twitter URL Conversion**:
